@@ -28,6 +28,17 @@ runs Manifest V3 so extensions alone can't save you. Its time to say good bye.
 Microsoft Edge Must also be abandoned. Feel free to do your own research
 but there is no reason to use Microsoft when there are far better options.
 
+Brave Browser and Brave Search are popular alternatives, especially within the
+privacy community. While this guide encourages baby steps and avoids debate,
+it's important to acknowledge that Brave has been involved in
+several controversies.
+
+There’s a significant difference between being mediocre at privacy and engaging
+in deceptive practices. Brave has been caught running fake fundraising campaigns
+for developers without their consent and injecting hidden affiliate links into
+users' URLs for kickback scams. These actions put Brave in the same category as
+Google and Microsoft.
+
 ## The Yeah Yeahs
 
 You may notice that some of these browsers use Chromium as a base. Chromium
@@ -61,7 +72,6 @@ nuts and it's become a base for many great privacy focused browsers.
 
 ### Chromium Forks
 
-* [Brave](https://brave.com/)
 * [UnGoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 * [Qute Browser](https://www.qutebrowser.org/index.html)
 * [Cromite -Android](https://github.com/uazo/cromite)

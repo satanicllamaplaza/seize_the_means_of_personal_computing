@@ -33,6 +33,17 @@ time to say good bye.
 
 Why the hell not FCK Yahoo too.. lol.
 
+Brave Browser and Brave Search are popular alternatives, especially within the
+privacy community. While this guide encourages baby steps and avoids debate,
+it's important to acknowledge that Brave has been involved in
+several controversies.
+
+There’s a significant difference between being mediocre at privacy and engaging
+in deceptive practices. Brave has been caught running fake fundraising campaigns
+for developers without their consent and injecting hidden affiliate links into
+users' URLs for kickback scams. These actions put Brave in the same category as
+Google and Microsoft.
+
 ## The Yeah Yeahs
 
 Again this is in no particular order. Any of these are a great choice
@@ -50,8 +61,6 @@ if you are switching from Google or Bing.
 DuckDuckGo and StartPage have been popular starting point for many people and
 despitea few stepbacks have managed to maintain some respect from privacy focused
 communities.
-
-* [Brave](https://search.brave.com/)
 
 * [Swisscows](https://swisscows.com/en)
 

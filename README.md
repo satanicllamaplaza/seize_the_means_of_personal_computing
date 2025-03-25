@@ -40,7 +40,7 @@ and we got some time before thats necessary.
 
 ## I am recomending tools I understand to be vetted
 
-## but always do your own research
+### but always do your own research
 
 * [Internet Browsers](internet_browser.md)
 
