@@ -1,7 +1,7 @@
 
 # SEIZING THE MEANS OF PERSONAL COMPUTING
 
-# Preamble
+## Preamble
 
 Seizing The Means Through Personal Computing is a series that covers basic steps
 for first timers to take in the world of degoogle, privacy and free and opensource
@@ -45,3 +45,5 @@ and we got some time before thats necessary.
 * [Internet Browsers](internet_browser.md)
 
 * [Search Engines](search_engines.md)
+
+* [YouTube](youtube.md)
